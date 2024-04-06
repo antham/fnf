@@ -10,7 +10,7 @@ require (
 	github.com/ovh/go-ovh v1.4.3
 	github.com/spf13/viper v1.18.2
 	golang.design/x/clipboard v0.7.0
-	golang.org/x/crypto v0.16.0
+	golang.org/x/crypto v0.17.0
 )
 
 require (
